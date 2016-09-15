@@ -1,3 +1,3 @@
 # sample-repo
 
-We are cool (from Mac)
+We are super cool (from site)
